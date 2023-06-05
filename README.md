@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Stats
+
+![GH-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasha-khomiak&theme=zenburn)
+
 <!--
 **sasha-khomiak/sasha-khomiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
