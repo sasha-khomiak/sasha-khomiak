@@ -2,7 +2,7 @@
 
 ---
 
-# 👨‍💻 Open to work
+# 👨🏻‍💻 Open to work
 
 ---
 
