@@ -1,8 +1,8 @@
-# 👨‍💻 Open to work
+## ![preview](./assets/header-01.jpg)
 
 ---
 
-## ![preview](./assets/header-01.jpg)
+# 👨‍💻 Open to work
 
 ---
 
