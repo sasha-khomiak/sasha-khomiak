@@ -38,16 +38,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khomiak@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khomiak_sasha/)
 
-  <div align="center">
-<p align="center">🔥 Streak Stats</p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  <div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=flag-india&background=000000)](https://git.io/streak-stats)
 </div>
 
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=sasha-khomiak&style=flat-square&color=blue" alt="" align="center"/>
-</div>
+<!-- <div align="center">
+</div> -->
 
 <!--
 **sasha-khomiak/sasha-khomiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
