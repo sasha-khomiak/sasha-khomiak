@@ -21,7 +21,7 @@
 
 # Statistics
 
-![GH-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasha-khomiak)
+![GH-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasha-khomiak&theme=zenburn)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasha-khomiak&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sasha-khomiak" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sasha-khomiak&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="sasha-khomiak" height="160"/></p>
