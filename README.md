@@ -41,7 +41,7 @@
   <div align="left">
 <p align="center"></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=flag-india&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=flag-india&background=ffffff)](https://git.io/streak-stats)
 
 </div>
 
