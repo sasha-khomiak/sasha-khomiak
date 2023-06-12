@@ -4,6 +4,14 @@
 
 # 👨🏻‍💻 Open to work
 
+# Contacts
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-khomiak/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasha-khomiak)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sasha_kho)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khomiak@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khomiak_sasha/)
+
 ---
 
 # My stack
@@ -23,27 +31,23 @@
 
 ![GH-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasha-khomiak&theme=zenburn)
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasha-khomiak&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sasha-khomiak" height="160" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sasha-khomiak&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="sasha-khomiak" height="160"/></p>
+
+---
+
+<div align="left">
+<p align="center"></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=flag-india&background=ffffff)](https://git.io/streak-stats)
+</div>
+
+---
 
 <a href="https://www.codewars.com/users/sasha-khomiak"><img src="https://www.codewars.com/users/sasha-khomiak/badges/large"></a>
 
 ---
-
-# Contacts
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-khomiak/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasha-khomiak)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sasha_kho)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khomiak@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khomiak_sasha/)
-
-  <div align="left">
-<p align="center"></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=flag-india&background=ffffff)](https://git.io/streak-stats)
-
-</div>
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=sasha-khomiak&style=flat-square&color=blue" alt="" align="center"/>
