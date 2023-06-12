@@ -38,7 +38,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khomiak@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khomiak_sasha/)
 
-  <div>
+<div align="center">
+<p></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasha-khomiak&theme=flag-india&background=000000)](https://git.io/streak-stats)
 </div>
 
