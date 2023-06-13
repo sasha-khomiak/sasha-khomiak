@@ -42,10 +42,6 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@khomiak/ca716dad-c669-436a-b6fc-774678e75f6b.svg"></embed></figure>
-
----
-
 <a href="https://www.codewars.com/users/sasha-khomiak"><img src="https://www.codewars.com/users/sasha-khomiak/badges/large"></a>
 
 ---
