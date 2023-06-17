@@ -42,7 +42,7 @@
 
 ---
 
-<div width="350"><a href="https://www.codewars.com/users/sasha-khomiak"><img src="https://www.codewars.com/users/sasha-khomiak/badges/large"></a></div>
+<div ><a href="https://www.codewars.com/users/sasha-khomiak"><img src="https://www.codewars.com/users/sasha-khomiak/badges/large" width="350"></a></div>
 
 ---
 
