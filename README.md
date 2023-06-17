@@ -42,11 +42,11 @@
 
 ---
 
-<div ><a href="https://www.codewars.com/users/sasha-khomiak"><img src="https://www.codewars.com/users/sasha-khomiak/badges/large" width="350"></a></div>
+<a href="https://www.codewars.com/users/sasha-khomiak"><img src="https://www.codewars.com/users/sasha-khomiak/badges/large" ></a>
 
 ---
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@khomiak/eecac5a0-33bc-40e7-91b9-4d14182b5e4b.png" /></a>
+<div width="350"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@khomiak/eecac5a0-33bc-40e7-91b9-4d14182b5e4b.png" /></a></div>
 
 ---
 
