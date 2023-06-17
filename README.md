@@ -46,6 +46,10 @@
 
 ---
 
+<figure><embed src="https://wakatime.com/share/@khomiak/fddbce59-44e6-4d69-870a-eb9199330afb.svg"></embed></figure>
+
+---
+
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=sasha-khomiak&style=flat-square&color=blue" alt="" align="center"/>
 </div>
